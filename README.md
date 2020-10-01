@@ -6,7 +6,7 @@ This is a library in development, currently you can use in your projects to capi
 
 ## How to use
 
-Here you have available two versions of the*"Word"*library, a full version and a minified version, in both you can use **capitalize**.
+Here you have available two versions of the *"Word"* library, a full version and a minified version, in both you can use **capitalize**.
 
  **You must first make use of the necessary import**
 ```javascript
